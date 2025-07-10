@@ -1,10 +1,10 @@
 # myKey
 
-BEP20
+BEP20-
 0x5693985195Bb240fFe6A50b736bF580A6504d152
 
-TRC20
+TRC20-
 TSUusHKGrcLkoMjpHBuVuZ3b1yNWyDe5wQ
 
-BTC
+BTC-
 bc1qxdh0vwr7wdk7qcw9rjfnvfjg78rcszwem3rkea
